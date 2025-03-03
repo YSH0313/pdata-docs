@@ -1,0 +1,38 @@
+---
+title: 我们的优势
+icon: icon-park-twotone:good-two
+createTime: 2024/12/13 16:11:19
+permalink: /guide/l218ir16/
+---
+
+我们相比于市面上已有的管理系统我们的优势又体现在哪里呢？您可以根据下面的图表进行对比。
+
+## 优势对比
+
+|    功能     |                                                                                          Other                                                                                          |                                                                                                   Us                                                                                                   |
+|:---------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  统一爬虫框架   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:x:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|  统一爬虫配置   |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|  统一爬虫模板   |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|  异步并发抓取   |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|   优先级队列   |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|   分布式抓取   |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|  可视化平台管理  |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|   多节点管理   |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|  平台查看日志   |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|   消息通知    |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|  任务指标统计   |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+| 产出指标统计&分析 |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|   自动部署    |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|   资源监控    |                                                                                   :white_check_mark:                                                                                    |                                                                                           :white_check_mark:                                                                                           |
+|   功能扩展    |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+|    定制化    |                                                                                           :x:                                                                                           |                                                                                           :white_check_mark:                                                                                           |
+
+::: tip
+当前功能列表不代表最终版，在未来我们会逐步丰富我们的功能
+:::
+
+从上面的图表中您可以看出我们的管理系统相比于其他管理系统也是处于比较有优势的地位的，更多的体现在 `快速创建任务`、`统一爬虫框架`、`异步并发执行`、`分布式`
+以及最值得我们去推崇的 `功能扩展` 和 `定制化开发`
+，这些功能对于一个可持续发展系统平台至关重要，如果您对于我们的平台建设有任何更好的建议或者意见，欢迎您随时将相关需求发送至 [我的邮箱](mailto:yuanshaohang@dataoceanai.com)
+，通过我们的评审后我们一定会尽快的支持相关的需求。
