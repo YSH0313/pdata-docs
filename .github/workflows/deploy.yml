@@ -26,21 +26,17 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 20
 
-      # ✅ 安装 pnpm
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v3
-        with:
-          version: 8
-
       # 安装依赖
       # Install dependencies
       - name: Install Dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm ci
+
+
 
       # 运行构建脚本
       # Run the build script
       - name: Build VuePress site
-        run: pnpm docs:build
+        run: npm run docs:build
 
 
       # 查看 workflow 的文档来获取更多信息
