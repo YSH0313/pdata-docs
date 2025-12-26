@@ -110,7 +110,7 @@ export default defineThemeConfig({
                     'MDk6MjI6MDIrMDA6MDAGed/SAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI0LTEyLTA1VDA5OjIy\n' +
                     'OjAyKzAwOjAwUWz+DQAAAABJRU5ErkJggg==" />\n' +
                     '</svg>', name: 'pdata'
-            }, link: 'http://47.251.48.207:9358/'
+            }, link: '/'
         },
         {
             icon: {

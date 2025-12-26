@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: 开始使用 →
-          link: http://47.251.48.207:9358/
+          link: /
 ---
